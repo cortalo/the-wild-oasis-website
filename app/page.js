@@ -1,5 +1,5 @@
-function page() {
-  return <h1>Hello Next!</h1>;
+function Page() {
+  return <h1>The Wild Oasis. Welcome to paradise.</h1>;
 }
 
-export default page;
+export default Page;
